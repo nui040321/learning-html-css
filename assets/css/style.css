@@ -7,3 +7,14 @@ body{
     line-height: 1.5;
     color: #333;
 }
+
+/* section */
+.section{}
+.section-headline{}
+
+/* about */
+.about{}
+.about-image{}
+.about-caption{}
+.about-headline{}
+.about-description{}
